@@ -1,7 +1,7 @@
 using Gen
 
 # Define state, action, observation spaces
-states = [...]
+states = [1,2,3,4,5,6,7,8,9,10]
 actions = [...]
 observations = [...]
 
